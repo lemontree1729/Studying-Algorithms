@@ -1,1 +1,1 @@
-# Studying-Algorithms
+# Just uploading problem codes that i solved.
