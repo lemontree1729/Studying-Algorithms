@@ -3,7 +3,6 @@
 from random import *
 
 
-
 def test(n, m):
     a = []
     while len(a) < n:
