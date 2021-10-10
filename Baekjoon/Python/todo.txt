@@ -1,1 +1,13 @@
-asdfads
+1. Make raw codes beautiful
+    - 14502, 12865
+
+
+2. Upload codes that you solved with problems
+    - not in any class problems
+    - All class 1 problems
+    - All class 2 problems
+    - All class 3 problems
+    - Some class 4 problems
+
+
+3. Sort problems with used algorithm
