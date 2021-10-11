@@ -1,5 +1,7 @@
 1. Make raw codes beautiful
-    - 14502, 12865
+    - Make test case code : 14502, 15686
+    - Add comments  : 14502, 15686, 12865
+    - Modify variable names meaningful : 14502, 15686, 12865
 
 
 2. Upload codes that you solved with problems

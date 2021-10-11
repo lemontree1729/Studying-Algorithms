@@ -1,3 +1,7 @@
+"""
+bruteforce
+"""
+
 from itertools import combinations as comb
 import copy
 from collections import deque
@@ -10,14 +14,14 @@ def bfs(data):
     while deq:
         x, y = deq.popleft()
         for dx, dy in ((0, 1), (0, -1), (1, 0), (-1, 0)):
-            nx, ny = x+dx, y+dy
+            nx, ny = x + dx, y + dy
             if 0 <= nx < m and 0 <= ny < n and data[ny][nx] == 0:
                 deq.append((nx, ny))
                 data[ny][nx] = 2
                 cnt += 1
     return blknum - 3 - cnt
-            
-        
+
+
 n, m = map(int, input().split())
 data = []
 for _ in range(n):
