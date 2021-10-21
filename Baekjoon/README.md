@@ -5,4 +5,4 @@
  <https://www.acmicpc.net/problem/problem_number>
 
 * problem number is same as each code file name after "p_"
-add problem number that you want to see
+* insert problem number that you want to see
